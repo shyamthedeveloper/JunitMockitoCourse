@@ -25,6 +25,12 @@ import org.mockito.junit.MockitoRule;
 
 import com.in28minutes.data.api.TodoService;
 
+
+/**
+ * just for first coomit
+ * @author chinc
+ *
+ */
 //@RunWith(MockitoJUnitRunner.class)
 public class TodoServiceImplMockitoInjectMockTest {
 	
